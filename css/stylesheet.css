@@ -1,0 +1,42 @@
+html
+{ 
+    background-color: lightgrey;
+}
+
+h1 
+{
+        text-align: center;
+}
+
+h2 
+{
+        text-align: center;
+}
+
+img 
+{
+    height: 600px;
+    width: 400px;
+    float: right;
+    padding-right: 200px ;
+
+}
+p{
+    width: 800px;
+    padding-left: 75px;
+}
+
+ul{
+    width: 800 px;
+    padding-left: 150px;
+}
+
+h3{
+    color: blue;
+    padding-left: 80px;
+
+}
+
+table{
+    padding-left: 125px;
+}
